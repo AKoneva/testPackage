@@ -1,0 +1,15 @@
+{
+  "originHash" : "ea9050790b3c97c82b1a73b806f32bf0dceb3dfa8c422c90425a88229cdff8b2",
+  "pins" : [
+    {
+      "identity" : "testpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AKoneva/testPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b6cbc05cfb4833be0635003a2cf1df1ac7fabe05"
+      }
+    }
+  ],
+  "version" : 3
+}
